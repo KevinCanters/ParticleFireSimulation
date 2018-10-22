@@ -1,0 +1,6 @@
+SDL2/
+bin/
+obj/
+ParticleFireSimulation.cbp
+ParticleFireSimulation.depend
+ParticleFireSimulation.layout
